@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pedro Pascal",
+      "empresa": "Hollyewood",
+      "email": "correo@correo.com",
+      "telefono": "5578463194",
+      "notas": "quiero una pagina web",
+      "id": 1
+    }
+  ]
+}
